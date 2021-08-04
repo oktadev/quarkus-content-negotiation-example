@@ -8,7 +8,6 @@ Please read [Content Negotiation with a Java MicroProfile Application][blog] to 
 **Prerequisites:** [Java 11](https://adoptopenjdk.net/).
 
 * [Getting Started](#getting-started)
-* [Links](#links)
 * [Help](#help)
 * [License](#license)
 
@@ -35,4 +34,4 @@ Please post any questions as comments on the [blog post][blog], or visit our [Ok
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-[blog]: https://developer.okta.com/blog/TBD
+[blog]: https://developer.okta.com/blog/2021/08/04/microprofile-content-negotiation
